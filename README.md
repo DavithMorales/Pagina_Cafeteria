@@ -6,10 +6,14 @@ Esta es una página web creada para una cafetería llamada Coffee and Cake. El s
 
 ## Estructura del Proyecto
 
--**HTML**: El esqueleto del sitio web está definido en el archivo index.html.
--**LESS**: El diseño de la página está estilizado utilizando LESS, que se compila en CSS para mejorar la mantenibilidad y organización de los estilos.
--**CSS**: El archivo compilado estilos.css se utiliza para definir el diseño visual, como el posicionamiento, colores y fuentes.
--**JavaScript**: Se utilizan scripts en JavaScript para añadir interactividad al sitio, como el menú móvil, el desplazamiento suave, el formulario de contacto y otros componentes interactivos.
+-**HTML**: 
+El esqueleto del sitio web está definido en el archivo index.html.
+-**LESS**: 
+El diseño de la página está estilizado utilizando LESS, que se compila en CSS para mejorar la mantenibilidad y organización de los estilos.
+-**CSS**: 
+El archivo compilado estilos.css se utiliza para definir el diseño visual, como el posicionamiento, colores y fuentes.
+-**JavaScript**: 
+Se utilizan scripts en JavaScript para añadir interactividad al sitio, como el menú móvil, el desplazamiento suave, el formulario de contacto y otros componentes interactivos.
 
 ## Características
 
