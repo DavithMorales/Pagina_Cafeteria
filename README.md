@@ -1,5 +1,4 @@
 Página Web de Cafetería
-
 Descripción
 Esta es una página web creada para una cafetería llamada Coffee and Cake. El sitio está diseñado con HTML, LESS (CSS preprocesado) y JavaScript para proporcionar una experiencia interactiva y atractiva para los usuarios. La página contiene información sobre el menú, el chef, la cafetería y un formulario de contacto.
 
